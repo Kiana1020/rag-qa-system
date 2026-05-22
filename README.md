@@ -23,7 +23,7 @@
 ## 📸 效果预览
 
 
-> `![问答示例](images/demo.png)`
+> `[问答示例](images/demo.png)`
 
 ## 🚀 快速开始
 
